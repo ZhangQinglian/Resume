@@ -29,9 +29,9 @@ force-https: False
 #############
 
 lang: "en"
-author: "ZhangQinglian"
+author: "张清廉"
 title: "{ 张清廉 }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "张清廉的个人简历"
 keywords: "zhangqinglian, hexo, android, jektll"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -140,10 +140,10 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  个人简介: 'about'
+#  Blog: 'latest-post'
+  时间线: 'timeline'
+  联系方式: 'contact'
 
 # Exclusion list from the generated _site
 
