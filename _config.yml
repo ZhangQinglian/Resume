@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,7 +56,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "人没有梦想，和咸鱼有什么区别？"
+  - text: "//人没有梦想，和咸鱼有什么区别？"
 me-img: "/img/me.jpg"
 
 ################
@@ -117,7 +117,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "zqlxtt@live.com"
+email: "qinglian.zhang@outlook.com"
 
 ##################
 # Social Buttons #
@@ -141,7 +141,6 @@ social:
 
 pages_list:
   个人简介: 'about'
-#  Blog: 'latest-post'
   时间线: 'timeline'
   联系方式: 'contact'
 
